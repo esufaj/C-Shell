@@ -1,4 +1,11 @@
 # C-Shell
+HOW TO RUN:
+
+step 1: to go to program location) cd to working directory
+step 2: tom compile program) gcc shellfinal.c -o shellfinal
+step 3: to run program) ./shellfinal
+step 4: use implemented commands in the shell such as : <, >, |, !!, cd etc
+
 A C program which serves as a shell interface that accepts user commands and then executes each command in a seperate process. My implementation supports input and output redirection, as well as pipes as a form of IPC between pairs of commands. Some system calls used in implementation are
 fork(), execvp(), wait(), dup2(), and pipe().
 
