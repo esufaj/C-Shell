@@ -15,6 +15,9 @@ The functionalities of the shell which can be used are:
 ### HOW TO RUN:
 
 step 1: (to go to program location) cd to working directory
+
 step 2: (to compile program) gcc shellfinal.c -o shellfinal
+
 step 3: (to run program) ./shellfinal
+
 step 4: use implemented commands in the shell such as : <, >, |, !!, cd etc
